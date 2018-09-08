@@ -1,4 +1,3 @@
-# readme.md
 <project name="Computer Science I - GitHub Assignment" basedir="." default="run-demo">
 
     <property name="src.dir" value="src"/> 
